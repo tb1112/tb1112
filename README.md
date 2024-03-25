@@ -3,9 +3,6 @@
 初心者です、コツコツ勉強、理解を深めます。
 
 
-
-<script src="particles.js"></script>
-
 /* particlesJS.load(@dom-id, @path-json, @callback (optional)); */
 particlesJS.load('particles-js', 'assets/particles.json', function() {
   console.log('callback - particles.js config loaded');
@@ -127,3 +124,4 @@ tb1112/tb1112 is a ✨ special ✨ repository because its `README.md` (this file
 You can click the Preview link to take a look at your changes.
 --->
 <div id="particles-js"></div>
+<script src="particles.js"></script>
